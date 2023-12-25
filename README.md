@@ -1,2 +1,1 @@
-# Programming-Fundamentals-
-This repository consists of mostly basic codes for Programming Fundamentals in C++
+This repository encompasses fundamental C++ programming examples, illustrating foundational concepts and principles in a comprehensive manner.
